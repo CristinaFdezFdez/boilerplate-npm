@@ -1,9 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Cristina",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"author": "Cristina",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
